@@ -40,19 +40,19 @@ We will let this extension available in Visual Studio Marketplace, but if you wa
 
 Updating CLI:
 
-<a href="https://github.com/stack-spot/stackspot-visualstudio-extension/raw/main/images/UpdatingCLI.gif" target="_blank"><img src="https://github.com/stack-spot/stackspot-visualstudio-extension/blob/main/images/UpdatingCLI.gif" alt="Gif showing how to update CLI using StackSpot Extension for Visual Studio 2022" border="0" /></a>
+<a href="https://github.com/stack-spot/stackspot-visualstudio/raw/main/images/UpdatingCLI.gif" target="_blank"><img src="https://github.com/stack-spot/stackspot-visualstudio/blob/main/images/UpdatingCLI.gif" alt="Gif showing how to update CLI using StackSpot Extension for Visual Studio 2022" border="0" /></a>
 
 Importing stack:
 
-<a href="https://github.com/stack-spot/stackspot-visualstudio-extension/raw/main/images/ImportStack.gif" target="_blank"><img src="https://github.com/stack-spot/stackspot-visualstudio-extension/blob/main/images/ImportStack.gif" alt="Gif showing how to import stack using StackSpot Extension for Visual Studio 2022" border="0" /></a>
+<a href="https://github.com/stack-spot/stackspot-visualstudio/raw/main/images/ImportStack.gif" target="_blank"><img src="https://github.com/stack-spot/stackspot-visualstudio/blob/main/images/ImportStack.gif" alt="Gif showing how to import stack using StackSpot Extension for Visual Studio 2022" border="0" /></a>
 
 Creating a new project:
 
-<a href="https://github.com/stack-spot/stackspot-visualstudio-extension/raw/main/images/CreateProject.gif" target="_blank"><img src="https://github.com/stack-spot/stackspot-visualstudio-extension/blob/main/images/CreateProject.gif" alt="Gif showing how to create a new project using StackSpot Extension for Visual Studio 2022" border="0" /></a>
+<a href="https://github.com/stack-spot/stackspot-visualstudio/raw/main/images/CreateProject.gif" target="_blank"><img src="https://github.com/stack-spot/stackspot-visualstudio/blob/main/images/CreateProject.gif" alt="Gif showing how to create a new project using StackSpot Extension for Visual Studio 2022" border="0" /></a>
 
 Aplying plugin:
 
-<a href="https://github.com/stack-spot/stackspot-visualstudio-extension/raw/main/images/ApplyPlugin.gif" target="_blank"><img src="https://github.com/stack-spot/stackspot-visualstudio-extension/blob/main/images/ApplyPlugin.gif" alt="Gif showing how to apply plugin using StackSpot Extension for Visual Studio 2022" border="0" /></a>
+<a href="https://github.com/stack-spot/stackspot-visualstudio/raw/main/images/ApplyPlugin.gif" target="_blank"><img src="https://github.com/stack-spot/stackspot-visualstudio/blob/main/images/ApplyPlugin.gif" alt="Gif showing how to apply plugin using StackSpot Extension for Visual Studio 2022" border="0" /></a>
 
 ## **Documentation**
 
@@ -61,19 +61,19 @@ Check our official documentation page to use StackSpot Extension for Visual Stud
 
 ## **Contributing**
 
-Check out our [**Contributing Guide**](https://github.com/stack-spot/stackspot-visualstudio-extension/blob/main/CONTRIBUTING.md) to learn about our development process, how to suggest bug fixes and improvements.
+Check out our [**Contributing Guide**](https://github.com/stack-spot/stackspot-visualstudio/blob/main/CONTRIBUTING.md) to learn about our development process, how to suggest bug fixes and improvements.
 
 Check out other guides:
 
-- [**Security**](https://github.com/stack-spot/stackspot-visualstudio-extension/blob/main/SECURITY.md)
+- [**Security**](https://github.com/stack-spot/stackspot-visualstudio/blob/main/SECURITY.md)
 
-- [**Developer Guide**](https://github.com/stack-spot/stackspot-visualstudio-extension/blob/main/DEVELOPER_GUIDE.md)
+- [**Developer Guide**](https://github.com/stack-spot/stackspot-visualstudio/blob/main/DEVELOPER_GUIDE.md)
 
 ## **Code of Conduct**
-Please follow the [**Code of Conduct**](https://github.com/stack-spot/stackspot-visualstudio-extension/blob/main/CODE_OF_CONDUCT.md) in all your interactions with our project.
+Please follow the [**Code of Conduct**](https://github.com/stack-spot/stackspot-visualstudio/blob/main/CODE_OF_CONDUCT.md) in all your interactions with our project.
 
 ## **License**
-[**Apache License 2.0**](https://github.com/stack-spot/stackspot-visualstudio-extension/blob/main/LICENSE).
+[**Apache License 2.0**](https://github.com/stack-spot/stackspot-visualstudio/blob/main/LICENSE).
 
 ## **Other information**
 

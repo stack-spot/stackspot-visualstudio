@@ -27,4 +27,4 @@ We prefer all communications to be in **English**.
 
 ## Code of Conduct
 
-Check the [**Code of Conduct**](https://github.com/stack-spot/stackspot-visualstudio-extension/blob/main/CODE_OF_CONDUCT.md) file at the repository root.
+Check the [**Code of Conduct**](https://github.com/stack-spot/stackspot-visualstudio/blob/main/CODE_OF_CONDUCT.md) file at the repository root.
