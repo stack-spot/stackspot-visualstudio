@@ -17,7 +17,7 @@
 
 ## **About**
 
-**StackSpot Extension for Visual Studio 2022** is an extension that extends [STK CLI](https://docs.stackspot.com/latest/docs/stk-cli/) to MS Visual Studio 2022 and allows you to import stacks, create a StackSpot project, apply plugins, and many more features. But all this is inside of your favorite IDE.
+**StackSpot Extension for Visual Studio 2022** is an extension that extends [STK CLI](https://docs.stackspot.com/docs/stk-cli/) to MS Visual Studio 2022 and allows you to import stacks, create a StackSpot project, apply plugins, and many more features. But all this is inside of your favorite IDE.
 
 ## **Getting started**
 
@@ -57,7 +57,7 @@ Aplying plugin:
 ## **Documentation**
 
 Check our official documentation page to use StackSpot Extension for Visual Studio 2022:
-[Documentation link](https://docs.stackspot.com/latest/docs/extensions-for-ide/visualstudio/)
+[Documentation link](https://docs.stackspot.com/docs/extensions-for-ide//)
 
 ## **Contributing**
 
