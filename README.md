@@ -40,19 +40,20 @@ We will let this extension available in Visual Studio Marketplace, but if you wa
 
 Updating CLI:
 
-<a href="https://raw.githubusercontent.com/stack-spot/stackspot-visualstudio/main/images/UpdatingCLI.gif" target="_blank"><img src="https://github.com/stack-spot/stackspot-visualstudio/blob/main/images/UpdatingCLI.gif" alt="Gif showing how to update CLI using StackSpot Extension for Visual Studio 2022" border="0" /></a>
+[![Gif showing how to update CLI using StackSpot Extension for Visual Studio 2022](https://raw.githubusercontent.com/stack-spot/stackspot-visualstudio/main/images/UpdatingCLI.gif)](https://raw.githubusercontent.com/stack-spot/stackspot-visualstudio/main/images/UpdatingCLI.gif)
 
 Importing stack:
 
-<a href="https://raw.githubusercontent.com/stack-spot/stackspot-visualstudio/main/images/ImportStack.gif" target="_blank"><img src="https://github.com/stack-spot/stackspot-visualstudio/blob/main/images/ImportStack.gif" alt="Gif showing how to import stack using StackSpot Extension for Visual Studio 2022" border="0" /></a>
+[![Gif showing how to import stack using StackSpot Extension for Visual Studio 2022](https://raw.githubusercontent.com/stack-spot/stackspot-visualstudio/main/images/ImportStack.gif)](https://raw.githubusercontent.com/stack-spot/stackspot-visualstudio/main/images/ImportStack.gif)
 
 Creating a new project:
 
-<a href="https://raw.githubusercontent.com/stack-spot/stackspot-visualstudio/main/images/CreateProject.gif" target="_blank"><img src="https://github.com/stack-spot/stackspot-visualstudio/blob/main/images/CreateProject.gif" alt="Gif showing how to create a new project using StackSpot Extension for Visual Studio 2022" border="0" /></a>
+[![Gif showing how to create a new project using StackSpot Extension for Visual Studio 2022](https://raw.githubusercontent.com/stack-spot/stackspot-visualstudio/main/images/CreateProject.gif)](https://raw.githubusercontent.com/stack-spot/stackspot-visualstudio/main/images/CreateProject.gif)
 
 Aplying plugin:
 
-<a href="https://raw.githubusercontent.com/stack-spot/stackspot-visualstudio/main/images/ApplyPlugin.gif" target="_blank"><img src="https://github.com/stack-spot/stackspot-visualstudio/blob/main/images/ApplyPlugin.gif" alt="Gif showing how to apply plugin using StackSpot Extension for Visual Studio 2022" border="0" /></a>
+[![Gif showing how to apply plugin using StackSpot Extension for Visual Studio 2022](https://raw.githubusercontent.com/stack-spot/stackspot-visualstudio/main/images/ApplyPlugin.gif)](https://raw.githubusercontent.com/stack-spot/stackspot-visualstudio/main/images/ApplyPlugin.gif)
+
 
 ## **Documentation**
 
